@@ -13,6 +13,12 @@ B --> D
 
 E((Rojo)) --> B
 B --> E
+
+style A fill:pink
+style B fill:orange
+style C fill:green
+style D fill:Blue
+style E fill:red
 ```
 
 # **Funcionalidades:**
