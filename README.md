@@ -1,2 +1,2 @@
 # SistemasOperativos
-Programas para la clase de sistemas operativos
+Estos son los proyectos que hice en la clase de sistemas operativos del 2024
