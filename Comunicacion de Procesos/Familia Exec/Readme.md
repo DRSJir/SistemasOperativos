@@ -4,6 +4,11 @@ flowchart TD
 	A((Rosa)) --> B((Azul))
 	A((Rosa)) --> C((Rojo))
 	A((Rosa)) --> D((Verde))
+
+style A fill:pink
+style B fill:blue
+style C fill:red
+style D fill:green
 ```
 
 # **Funcionalidades:**
